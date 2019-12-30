@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Day1_Casestudy_ControlStructures/src"/>
+	<classpathentry kind="lib" path="Day1_Casestudy_ControlStructures/jcalendar-1.4.jar"/>
+	<classpathentry kind="output" path="Day1_Casestudy_ControlStructures/bin"/>
+</classpath>
